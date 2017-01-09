@@ -46,6 +46,7 @@ Suggests:
     parallelMap,
     ranger,
     rmarkdown,
+    Rmpi,
     rpart,
     snow,
     testthat
